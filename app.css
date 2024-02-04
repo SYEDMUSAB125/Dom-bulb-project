@@ -1,0 +1,32 @@
+*{
+    margin:  0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+height: 100%;
+width: 100%;
+}
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+   
+  
+}
+button{
+    width: 10%;
+    padding:10px;
+    background-color: thistle;
+    color: brown;
+    border: none;
+    border-radius: 5px;
+}
+.main img{
+    width: 400px;
+    height: 500px;
+   
+}
+
+
